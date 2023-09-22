@@ -8,9 +8,9 @@ Switches between two CV levels in the +/- 2.5v range.
 - clock
 
 ## to-dos
-- [ ] Generate clocked values
+- [X] Generate clocked values
 - [ ] Display values on LCD
-- [ ] Add linear portamneto
+- [ ] Add linear portamento
 - [ ] Devise data structure for settings
 - [ ] Control with I2C from Pi
 - [ ] DAC values into voltages
